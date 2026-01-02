@@ -26,19 +26,28 @@ levý shift - podržení kostky
 
 popisek obtížností 
 v nastavení je možnost si nastavit obtížnost 1 až 5
+
 4 a 5 obtížnost přidává do hry 8 unikatní tvar
+
 score se vykresluje nahoře v levém horním rohu  
 
+
 popisek k hudbě 
+
 v ramci programu je i zvuková custom nahrávka která se dá vypnout pomocí tlačítka ztlumit
 
 uchovávání skore
+
 program uchovává nejlepší skoré v souboru score.txt 
 
 soubory se kterými se pracuje 
+
 include/objeckty.h
+
 src/hra.c
+
 src/objektyvypsane.c
+
 hello.c
 
 autor produktu Marek Slavík
