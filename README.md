@@ -10,12 +10,19 @@ a nasledné spuštění
 popisek k ovladání
 tetris se zavírá ESC
 zakladní ovladání bez upravy (možnost změnění bindu v nastaveni)
+
 levá šipka - posun vlevo 
+
 pravá šipka - posun pravo
+
 dolní šipka - zrychlení pádu
+
 horní šipka - měnění rotace objektu 
+
 p  - pauza menu 
+
 levý shift - podržení kostky 
+
 
 popisek obtížností 
 v nastavení je možnost si nastavit obtížnost 1 až 5
